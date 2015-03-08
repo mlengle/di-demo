@@ -1,2 +1,2 @@
 # di-demo
-DI demo and comparison
+Dependency Injection demo and comparison for Picocontainer, Guice, Spring
